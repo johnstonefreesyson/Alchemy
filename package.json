@@ -1,0 +1,7 @@
+{
+  "name": "claim-and-forward",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": { "start": "node claim-and-forward.js" },
+  "dependencies": { "ethers": "^6.13.0" }
+}
